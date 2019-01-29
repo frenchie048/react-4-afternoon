@@ -65,6 +65,7 @@ a {
 
 .link-wrap {
   display: flex;
+  color: white;
 }
 
 .links {
